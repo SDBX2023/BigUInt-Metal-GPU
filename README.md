@@ -17,6 +17,9 @@ I’d like to —try to— make GPU Programming fun 🤩 and cool 😎. Similar 
 
  - [ ] Make it easier to produce Scientific research apps that analyze and process large datasets…
  - [ ] Leverage the GPU more easily to run streaming & computational tasks in parallel…
+ - [ ] Apply high-performance filters to, and extract statistical and histogram data from 'not just' images.
+ - [ ] Still be able to Implement and run neural networks for machine learning training and inference.
+ - [ ] Solve systems of equations, factorize matrices and multiply matrices and vectors, etc. only more easily!
 
 # Did You Know?
 **Your GPU is more than likely better at Mathematics 🧮 *Throughput* than your CPU**.
