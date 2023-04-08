@@ -9,7 +9,7 @@ Your GPU is more than likely better at Mathematics 🧮 Throughput than your CPU
  - An AMD Radeon Pro 5500M (GPU: 1536 shaders) can perform ~4454 GFLOPS which is over 10x times the throughput.
  - Both of these devices are inside the Apple MacBook Pro 16"-inch (model: Late 2019).
 
-(/images/Comparison001.png)
+!(/images/Comparison001.png)
 
 # Resources
 
