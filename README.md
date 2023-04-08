@@ -3,25 +3,16 @@ A Big or Large Integer Framework Library Designed for GPUs using Metal, interfac
 
 # Resources
 
-  https://github.com/apple/swift/blob/main/test/Prototypes/BigInt.swift
-
-  https://github.com/mkrd/Swift-BigInt/blob/master/Sources/Swift-Big-Number-Core.swift
-
-https://developer.apple.com/metal/
-
-https://developer.apple.com/swift/
-
-https://www.apple.com/swift/
-
-https://github.com/attaswift/BigInt
-
-https://github.com/mkrd/Swift-BigInt
-
-https://forums.swift.org/t/support-for-large-binary-numbers/37062
-
-https://developer.apple.com/forums/thread/75769
-
-https://ios.libhunt.com/compare-bigint-vs-swift-pons
+1. https://github.com/apple/swift/blob/main/test/Prototypes/BigInt.swift
+2. https://github.com/mkrd/Swift-BigInt/blob/master/Sources/Swift-Big-Number-Core.swift
+3. https://developer.apple.com/metal/
+4. https://developer.apple.com/swift/
+5. https://www.apple.com/swift/
+6. https://github.com/attaswift/BigInt
+7. https://github.com/mkrd/Swift-BigInt
+8. https://forums.swift.org/t/support-for-large-binary-numbers/37062
+9. https://developer.apple.com/forums/thread/75769
+10. https://ios.libhunt.com/compare-bigint-vs-swift-pons
 
 https://iosexample.com/a-big-integer-library-for-swift/
 
