@@ -96,7 +96,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 5. https://developer.apple.com/documentation/metalperformanceshaders/recurrent_neural_networks
 6. https://developer.apple.com/documentation/metalperformanceshaders/objects_that_simplify_the_creation_of_neural_networks
 7. https://developer.apple.com/documentation/metalperformanceshaders/objects_that_simplify_the_creation_of_neural_networks
-8. g
+8. https://developer.apple.com/documentation/metal/blit_passes
 9. h
 10. i
 
