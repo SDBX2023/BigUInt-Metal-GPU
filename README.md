@@ -2,6 +2,9 @@
 A Big or Large Integer Framework Library Designed for GPUs using Metal, interfaced via Apple Swift.
 
 # Resources
+
+https://github.com/apple/swift/blob/main/test/Prototypes/BigInt.swift
+
 https://developer.apple.com/metal/
 
 https://developer.apple.com/swift/
