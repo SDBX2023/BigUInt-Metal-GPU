@@ -16,6 +16,7 @@ I’d like to —try to— make GPU Programming fun 🤩 and cool 😎. Similar 
  - [ ] A **combination, or cross-section of all of the above**, within **Metal** itself!
 
  - [ ] Make it easier to produce Scientific research apps that analyze and process large datasets…
+ - [ ] Leverage the GPU more easily to run computational tasks in parallel
 
 # Did You Know?
 **Your GPU is more than likely better at Mathematics 🧮 *Throughput* than your CPU**.
