@@ -54,7 +54,7 @@ The Video RAM (GDDR5/6/6X/etc.) and/or *very high speed* Unified RAM available t
 16. https://developer.apple.com/documentation/metalperformanceshaders/
 17. https://developer.apple.com/documentation/metal/blit_passes
 18. https://developer.apple.com/documentation/metal/indirect_command_encoding
-19. r
+19. https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/MTLBestPracticesGuide/index.html#//apple_ref/doc/uid/TP40016642
 20. s
 21. t
 
