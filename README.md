@@ -18,6 +18,15 @@ https://developer.apple.com/forums/thread/75769
 
 https://ios.libhunt.com/compare-bigint-vs-swift-pons
 
+https://iosexample.com/a-big-integer-library-for-swift/
+
+https://github.com/hyugit/UInt256
+
+https://github.com/leif-ibsen/BigInt
+
+
+
+
 
 
 # Did You Know?
