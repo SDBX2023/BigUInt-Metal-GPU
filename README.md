@@ -3,13 +3,13 @@ A Big or Large Integer Framework Library Designed for GPUs using Metal, interfac
 
  - [x] Simple Programming Interface(s). *(Have been done already, but not for the more advanced stuff!)*
 
- - [x] SIMD (MMX/SSE/AVX/AVX2/AutoVec/etc.).
+ - [x] SIMD (MMX/SSE/AVX/AVX2/AutoVec/etc.). *(Most programmers **never** use any of these extensions to x86/x64/Apple Silicon)
 
- - [x] vDSP (It would be really awesome to do this on a GPU or AI/ML chip).
+ - [x] vDSP and FFTs, etc. *(It would be really awesome to do this on a GPU or AI/ML chip)*
 
- - [x] Image Processing by the GPU (for some people).
+ - [x] Image Processing by the GPU **(for some people)**.
 
- - [x] Apple Metal (version 3).
+ - [x] **Apple Metal** (version 3).
 
  - [ ] A **combination of all of the above**, within **Metal** itself!
 
