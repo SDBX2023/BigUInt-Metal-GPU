@@ -40,6 +40,11 @@ https://forums.swift.org/t/support-for-large-binary-numbers/37062
 
 https://forums.swift.org/t/thoughts-on-swift-numerics/31627
 
+https://docs.xdc.community/tools/sdks-and-programming/switft
+
+
+
+
 
 
 
