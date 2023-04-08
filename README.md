@@ -3,7 +3,7 @@ A Big or Large Integer Framework Library Designed for GPUs using Metal, interfac
 
 I’d like to —try to— make GPU Programming fun 🤩 and cool 😎. Similar to what Chris Lattner did with Swift, but for GPUs. Apple gave us Swift, I'd like to give something back to the community.
 
- - [x] Simple Programming Interface(s). *(Has been done already, but not for the more advanced stuff!)*
+ - [x] Simple Programming Interface(s) such as the Swift Programming Language itself. *(Has been done already, but not for the more advanced stuff!)*
 
  - [x] SIMD (MMX/SSE/AVX/AVX2/AutoVec/etc.). *(Most programmers **never** use any of these extensions to x86/x64/Apple Silicon)*
 
