@@ -38,6 +38,7 @@ The Video RAM (GDDR5/6/6X/etc.) and/or *very high speed* Unified RAM available t
 
 1. https://en.wikipedia.org/wiki/Metal_(API)
 2. https://developer.apple.com/documentation/metal/performing_calculations_on_a_gpu
+2. https://developer.apple.com/documentation/metal/compute_passes
 3. https://developer.apple.com/documentation/metal/metal_sample_code_library
 4. https://developer.apple.com/documentation/metal/gpu_devices_and_work_submission
 5. https://developer.apple.com/metal/Metal-Shading-Language-Specification.pdf
