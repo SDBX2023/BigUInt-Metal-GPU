@@ -42,13 +42,18 @@ https://forums.swift.org/t/thoughts-on-swift-numerics/31627
 
 https://docs.xdc.community/tools/sdks-and-programming/switft
 
+https://gitee.com/yeahmao/awesome__matteocrippa_awesome-swift
 
+https://twitter.com/swiftwasm?lang=en
 
+https://www.sololearn.com/Discuss/1212585/see-the-difference-bigint-in-c-and-python
 
-
+https://lightrun.com/answers/magiclabs-magic-js-could-not-find-module-bigint-for-target-x86_64-apple-ios-simulator-found-arm64-arm64-apple-io
 
 
 # Did You Know?
 
 Your GPU is more than likely better at Mathematics 🧮 Throughput than your CPU?
+
+
 
