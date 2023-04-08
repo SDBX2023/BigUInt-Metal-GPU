@@ -5,6 +5,9 @@ A Big or Large Integer Framework Library Designed for GPUs using Metal, interfac
 
 https://github.com/apple/swift/blob/main/test/Prototypes/BigInt.swift
 
+https://github.com/mkrd/Swift-BigInt/blob/master/Sources/Swift-Big-Number-Core.swift
+
+
 https://developer.apple.com/metal/
 
 https://developer.apple.com/swift/
@@ -27,7 +30,7 @@ https://github.com/hyugit/UInt256
 
 https://github.com/leif-ibsen/BigInt
 
-
+https://github.com/Boilertalk/BigInt.swift
 
 
 
