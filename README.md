@@ -7,7 +7,8 @@ A Big or Large Integer Framework Library Designed for GPUs using Metal, interfac
 Video RAM (GDDR5/6x) and or *very high speed* Unified RAM such as in a gaming console (Xbox Series S/X, PlayStation 5, etc.) or the RAM found in M1 Pro and M2 Pro (or better) Apple devices also offers and backs 'local' storage when performing very large number calculations. GPUs have over 1024 'cores' or 'shaders' these days compared to just 8 cores available on a typical 'good' computer CPU (processor).
 
 **For example**:
- - An Intel Core i9-9880H processor (8C/16T) can perform 432.2 GFLOPS (Giga, or Billion, Floating Point Operations per Second).
+ - An Intel Core i9-9880H processor (8C/16T) can perform 432.2 GFLOPS (Giga, or Billion, Floating Point Operations per Second) when utilising ALL cores and ALL availabe SMT plus using extensive SIMD instructions. Typical computer code does not come close to this figure.
+
  - An AMD Radeon Pro 5500M (GPU: 1536 shaders) can perform ~4454 GFLOPS which is over 10x times the throughput.
  - Both of these devices are inside the Apple MacBook Pro 16"-inch (model: Late 2019).
 
