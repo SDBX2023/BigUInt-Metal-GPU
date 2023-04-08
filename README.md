@@ -3,10 +3,9 @@ A Big or Large Integer Framework Library Designed for GPUs using Metal, interfac
 
 # Resources
 
-https://github.com/apple/swift/blob/main/test/Prototypes/BigInt.swift
+  https://github.com/apple/swift/blob/main/test/Prototypes/BigInt.swift
 
-https://github.com/mkrd/Swift-BigInt/blob/master/Sources/Swift-Big-Number-Core.swift
-
+  https://github.com/mkrd/Swift-BigInt/blob/master/Sources/Swift-Big-Number-Core.swift
 
 https://developer.apple.com/metal/
 
@@ -49,6 +48,12 @@ https://twitter.com/swiftwasm?lang=en
 https://www.sololearn.com/Discuss/1212585/see-the-difference-bigint-in-c-and-python
 
 https://lightrun.com/answers/magiclabs-magic-js-could-not-find-module-bigint-for-target-x86_64-apple-ios-simulator-found-arm64-arm64-apple-io
+
+https://stackoverflow.com/questions/38164634/compute-sum-of-array-values-in-parallel-with-metal-swift
+
+https://stackoverflow.com/questions/35985353/metal-shading-language-console-output
+
+https://developer.apple.com/forums/thread/5602
 
 
 # Did You Know?
