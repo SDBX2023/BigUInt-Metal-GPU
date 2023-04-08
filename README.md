@@ -1,7 +1,12 @@
 # BigUint-Metal-GPU
 A Big or Large Integer Framework Library Designed for GPUs using Metal, interfaced via Apple Swift.
 
+# Did You Know?
+Your GPU is more than likely better at Mathematics 🧮 Throughput than your CPU?
+
 # Resources
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 1. https://github.com/apple/swift/blob/main/test/Prototypes/BigInt.swift
 2. https://github.com/mkrd/Swift-BigInt/blob/master/Sources/Swift-Big-Number-Core.swift
@@ -13,43 +18,24 @@ A Big or Large Integer Framework Library Designed for GPUs using Metal, interfac
 8. https://forums.swift.org/t/support-for-large-binary-numbers/37062
 9. https://developer.apple.com/forums/thread/75769
 10. https://ios.libhunt.com/compare-bigint-vs-swift-pons
-
-https://iosexample.com/a-big-integer-library-for-swift/
-
-https://github.com/hyugit/UInt256
-
-https://github.com/leif-ibsen/BigInt
-
-https://github.com/Boilertalk/BigInt.swift
-
-https://github.com/topics/swift-bigint
-
-https://stackoverflow.com/questions/25531914/biginteger-equivalent-in-swift
-
-https://forums.swift.org/t/support-for-large-binary-numbers/37062
-
-https://forums.swift.org/t/thoughts-on-swift-numerics/31627
-
-https://docs.xdc.community/tools/sdks-and-programming/switft
-
-https://gitee.com/yeahmao/awesome__matteocrippa_awesome-swift
-
-https://twitter.com/swiftwasm?lang=en
-
-https://www.sololearn.com/Discuss/1212585/see-the-difference-bigint-in-c-and-python
-
-https://lightrun.com/answers/magiclabs-magic-js-could-not-find-module-bigint-for-target-x86_64-apple-ios-simulator-found-arm64-arm64-apple-io
-
-https://stackoverflow.com/questions/38164634/compute-sum-of-array-values-in-parallel-with-metal-swift
-
-https://stackoverflow.com/questions/35985353/metal-shading-language-console-output
-
-https://developer.apple.com/forums/thread/5602
+11. https://iosexample.com/a-big-integer-library-for-swift/
+12. https://github.com/hyugit/UInt256
+13. https://github.com/leif-ibsen/BigInt
+14. https://github.com/Boilertalk/BigInt.swift
+15. https://github.com/topics/swift-bigint
+16. https://stackoverflow.com/questions/25531914/biginteger-equivalent-in-swift
+17. https://forums.swift.org/t/support-for-large-binary-numbers/37062
+18. https://forums.swift.org/t/thoughts-on-swift-numerics/31627
+19. https://docs.xdc.community/tools/sdks-and-programming/switft
+20. https://gitee.com/yeahmao/awesome__matteocrippa_awesome-swift
+21. https://twitter.com/swiftwasm?lang=en
+22. https://www.sololearn.com/Discuss/1212585/see-the-difference-bigint-in-c-and-python
+23. https://lightrun.com/answers/magiclabs-magic-js-could-not-find-module-bigint-for-target-x86_64-apple-ios-simulator-found-arm64-arm64-apple-io
+24. https://stackoverflow.com/questions/38164634/compute-sum-of-array-values-in-parallel-with-metal-swift
+25. https://stackoverflow.com/questions/35985353/metal-shading-language-console-output
+26. https://developer.apple.com/forums/thread/5602
 
 
-# Did You Know?
-
-Your GPU is more than likely better at Mathematics 🧮 Throughput than your CPU?
 
 
 
