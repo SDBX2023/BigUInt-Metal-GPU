@@ -48,6 +48,7 @@ The Video RAM (GDDR5/6/6X/etc.) and/or *very high speed* Unified RAM available t
 9. https://developer.apple.com/metal/cpp/
 10. https://developer.apple.com/metal/sample-code/
 11. https://developer.apple.com/documentation/metalperformanceshaders/
+12. https://developer.apple.com/library/archive/documentation/Miscellaneous/Conceptual/MetalProgrammingGuide/Prog-Func/Prog-Func.html#//apple_ref/doc/uid/TP40014221-CH5-SW1
 
 # History
 ![Apple A7 processor.](/images/AED20F3B-7CC0-4476-8203-D6B91878B6B0.jpeg)
