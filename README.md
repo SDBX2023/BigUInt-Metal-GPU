@@ -6,5 +6,9 @@ https://developer.apple.com/metal/
 
 https://developer.apple.com/swift/
 
-https://www.apple.com/metal/
+[https://www.apple.com/swift/
+
+# Did You Know?
+
+Your GPU is more than likely better at Mathematics 🧮 Throughput than your CPU?
 
