@@ -6,7 +6,7 @@ https://developer.apple.com/metal/
 
 https://developer.apple.com/swift/
 
-[https://www.apple.com/swift/
+https://www.apple.com/swift/
 
 # Did You Know?
 
