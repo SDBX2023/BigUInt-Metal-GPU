@@ -1,7 +1,7 @@
 # BigUInt-Metal-GPU
 A Big or Large Integer Framework Library Designed for GPUs using Metal, interfaced via Apple Swift.
 
-I’d like to —try to— make GPU Programming fun 🤩 and cool 😎. Similar to what Chris Lattner did with Swift, but for GPUs.
+I’d like to —try to— make GPU Programming fun 🤩 and cool 😎. Similar to what Chris Lattner did with Swift, but for GPUs. Apple gave us Swift, I'd like to give something back to the community.
 
  - [x] Simple Programming Interface(s). *(Has been done already, but not for the more advanced stuff!)*
 
