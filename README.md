@@ -86,7 +86,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 # Additional Resources
 1. https://developer.apple.com/documentation/metalperformanceshaders
-2. a
+2. https://developer.apple.com/library/archive/documentation/Miscellaneous/Conceptual/MetalProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40014221
 3. b
 4. o
 5. d
