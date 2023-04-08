@@ -111,7 +111,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 # Other Resources
 
 1. https://developer.apple.com/documentation/realitykit
-2. b
+2. https://developer.apple.com/library/archive/documentation/Miscellaneous/Conceptual/MetalProgrammingGuide/Prog-Func/Prog-Func.html#//apple_ref/doc/uid/TP40014221-CH5-SW1
 3. c
 4. d
 5. e
