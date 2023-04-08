@@ -97,6 +97,12 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 6. https://developer.apple.com/documentation/metalperformanceshaders/objects_that_simplify_the_creation_of_neural_networks
 7. https://developer.apple.com/documentation/metalperformanceshaders/objects_that_simplify_the_creation_of_neural_networks
 8. https://developer.apple.com/documentation/metal/blit_passes
-9. h
+9. https://developer.apple.com/documentation/metal/indirect_command_encoding
 10. i
+11. j
+12. k
+13. l
+14. m
+15. n
+16. o
 
