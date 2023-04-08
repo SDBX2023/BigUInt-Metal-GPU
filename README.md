@@ -39,6 +39,9 @@ The Video RAM (GDDR5/6/6X/etc.) and/or *very high speed* Unified RAM available t
 ![Apple A7 processor.](/images/AED20F3B-7CC0-4476-8203-D6B91878B6B0.jpeg)
 "**Metal has been available since June 2, 2014** on iOS devices powered by **Apple A7 or later**, and **since June 8, 2015 on Macs** (2012 models or later) running **OS X El Capitan**." — Wikipedia
 
+# Adoption
+"**According to Apple, more than 148,000 applications use Metal directly, and 1.7 million use it through high-level frameworks**, (as of June 2017)." — Wikipedia
+
 # Resources
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
