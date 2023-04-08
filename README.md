@@ -34,8 +34,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 24. https://stackoverflow.com/questions/38164634/compute-sum-of-array-values-in-parallel-with-metal-swift
 25. https://stackoverflow.com/questions/35985353/metal-shading-language-console-output
 26. https://developer.apple.com/forums/thread/5602
-
-
+27. https://www.appsloveworld.com/swift/100/165/use-huge-numbers-in-apple-swift
+28. https://www.joyk.com/dig/detail/47611
 
 
 
