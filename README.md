@@ -1,11 +1,17 @@
 # BigUInt-Metal-GPU
 A Big or Large Integer Framework Library Designed for GPUs using Metal, interfaced via Apple Swift.
 
-[x] SIMD
-[x] vDSP
-[x] Image Processing
-[x] Metal
-[ ] A combination of all of the above, within Metal itself!
+[x] Simple Programming Interface(s).
+
+[x] SIMD (MMX/SSE/AVX/AVX2/AutoVec/etc.).
+
+[x] vDSP (It would be really awesome to do this on a GPU or AI/ML chip).
+
+[x] Image Processing by the GPU (for some people).
+
+[x] Appple Metal (version 3).
+
+[ ] A **combination of all of the above**, within **Metal** itself!
 
 # Did You Know?
 **Your GPU is more than likely better at Mathematics 🧮 *Throughput* than your CPU**.
