@@ -32,6 +32,14 @@ https://github.com/leif-ibsen/BigInt
 
 https://github.com/Boilertalk/BigInt.swift
 
+https://github.com/topics/swift-bigint
+
+https://stackoverflow.com/questions/25531914/biginteger-equivalent-in-swift
+
+https://forums.swift.org/t/support-for-large-binary-numbers/37062
+
+https://forums.swift.org/t/thoughts-on-swift-numerics/31627
+
 
 
 
