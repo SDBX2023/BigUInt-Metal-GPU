@@ -78,5 +78,15 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 27. https://www.appsloveworld.com/swift/100/165/use-huge-numbers-in-apple-swift
 28. https://www.joyk.com/dig/detail/47611
 
-
+# Additional Resources
+1. https://developer.apple.com/documentation/metalperformanceshaders
+2. a
+3. b
+4. c
+5. d
+6. e
+7. f
+8. g
+9. h
+10. i
 
