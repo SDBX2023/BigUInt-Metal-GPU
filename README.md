@@ -28,6 +28,13 @@ The Video RAM (GDDR5/6/6X/etc.) and/or *very high speed* Unified RAM available t
 
 ![Comparison of CPU vs GPU Performance.](/images/Comparison001.png)
 
+# Crash Course
+
+1. https://en.wikipedia.org/wiki/Metal_(API)
+2. https://developer.apple.com/metal/Metal-Shading-Language-Specification.pdf
+3. https://developer.apple.com/metal/
+4. https://developer.apple.com/metal/cpp/
+
 # Resources
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
