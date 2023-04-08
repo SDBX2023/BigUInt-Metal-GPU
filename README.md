@@ -9,7 +9,7 @@ A Big or Large Integer Framework Library Designed for GPUs using Metal, interfac
 
  - [x] Image Processing by the GPU (for some people).
 
- - [x] Appple Metal (version 3).
+ - [x] Apple Metal (version 3).
 
  - [ ] A **combination of all of the above**, within **Metal** itself!
 
