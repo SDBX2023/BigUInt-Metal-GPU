@@ -2,7 +2,9 @@
 A Big or Large Integer Framework Library Designed for GPUs using Metal, interfaced via Apple Swift.
 
 # Did You Know?
-Your GPU is more than likely better at Mathematics 🧮 Throughput than your CPU?
+Your GPU is more than likely better at Mathematics 🧮 *Throughput* than your CPU.
+
+Video RAM (GDDR5/6x) and or *very high speed* Unified RAM such as in a gaming console (Xbox Series S/X, PlayStation 5, etc.) or the RAM found in M1 Pro and M2 Pro (or better) Apple devices also offers and backs 'local' storage when performing very large number calculations. GPUs have over 1024 'cores' or 'shaders' these days compared to just 8 cores available on a typical 'good' computer CPU (processor).
 
 **For example**:
  - An Intel Core i9-9880H processor (8C/16T) can perform 432.2 GFLOPS (Giga, or Billion, Floating Point Operations per Second).
