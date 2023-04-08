@@ -4,7 +4,7 @@ A Big or Large Integer Framework Library Designed for GPUs using Metal, interfac
 # Did You Know?
 **Your GPU is more than likely better at Mathematics 🧮 *Throughput* than your CPU**.
 
-Video RAM (GDDR5/6x) and or *very high speed* Unified RAM such as in a gaming console (Xbox Series S/X, PlayStation 5, etc.) or the RAM found in M1 Pro and M2 Pro (or better) Apple devices also offers and backs 'local' storage when performing very large number calculations. GPUs have over 1024 'cores' or 'shaders' these days compared to just 8 cores available on a typical 'good' computer CPU (processor).
+The Video RAM (GDDR5/6/6X/etc.) and or *very high speed* Unified RAM available today, such as in a gaming console (Xbox Series S/X, PlayStation 5, etc.), or the RAM found in M1 Pro and M2 Pro (or better) Apple devices, also offers and backs 'local' storage when performing very large number calculations. GPUs have typically  had over 1024 'cores' or 'shaders' these days (prior to 2023) compared to just 8 'Performance' cores available within a typical 'good' computer CPU (processor).
 
 **For example**:
  - An Intel Core i9-9880H processor (8C/16T) can perform 432.2 GFLOPS (Giga, or Billion, Floating Point Operations per Second) when utilising ALL cores and ALL availabe SMT plus using extensive SIMD instructions. Typical computer code does not come close to this figure.
