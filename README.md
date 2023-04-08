@@ -1,7 +1,7 @@
 # BigUInt-Metal-GPU
 A Big or Large Integer Framework Library Designed for GPUs using Metal, interfaced via Apple Swift.
 
- - [x] Simple Programming Interface(s).
+ - [x] Simple Programming Interface(s). *(Have been done already, but not for the more advanced stuff!)*
 
  - [x] SIMD (MMX/SSE/AVX/AVX2/AutoVec/etc.).
 
