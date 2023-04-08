@@ -35,6 +35,9 @@ The Video RAM (GDDR5/6/6X/etc.) and/or *very high speed* Unified RAM available t
 3. https://developer.apple.com/metal/
 4. https://developer.apple.com/metal/cpp/
 
+# History
+"**Metal has been available since June 2, 2014** on iOS devices powered by **Apple A7 or later**, and **since June 8, 2015 on Macs** (2012 models or later) running **OS X El Capitan**." — Wikipedia
+
 # Resources
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
