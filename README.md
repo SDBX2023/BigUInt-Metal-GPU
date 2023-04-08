@@ -122,7 +122,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 1. https://developer.apple.com/documentation/realitykit
 2. https://developer.apple.com/library/archive/documentation/Miscellaneous/Conceptual/MetalProgrammingGuide/Prog-Func/Prog-Func.html#//apple_ref/doc/uid/TP40014221-CH5-SW1
 3. https://developer.apple.com/documentation/metal/resource_loading
-4. d
+4. https://developer.apple.com/documentation/metal/using_function_specialization_to_build_pipeline_variants
 5. e
 6. f
 7. g
