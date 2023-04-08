@@ -4,6 +4,11 @@ A Big or Large Integer Framework Library Designed for GPUs using Metal, interfac
 # Did You Know?
 Your GPU is more than likely better at Mathematics 🧮 Throughput than your CPU?
 
+For example:
+ - An Intel Core i9-9880H processor (8C/16T) can perform 432.2 GFLOPS (Giga, or Billion, Floating Point Operations per Second).
+ - An AMD Radeon Pro 5500M (GPU: 1536 shaders) can perform ~4454 GFLOPS which is over 10x times the throughput.
+ - Both of these devices are inside the Apple MacBook Pro 16"-inch (model: Late 2019).
+
 # Resources
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
