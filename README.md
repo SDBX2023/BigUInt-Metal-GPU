@@ -40,20 +40,21 @@ The Video RAM (GDDR5/6/6X/etc.) and/or *very high speed* Unified RAM available t
 2. https://developer.apple.com/documentation/metal/performing_calculations_on_a_gpu
 2. https://developer.apple.com/documentation/metal/compute_passes
 3. https://developer.apple.com/documentation/metal/buffers
-4. https://developer.apple.com/documentation/metal/memory_heaps
-5. https://developer.apple.com/documentation/metal/metal_sample_code_library
-6. https://developer.apple.com/documentation/metal/gpu_devices_and_work_submission
-7. https://developer.apple.com/metal/Metal-Shading-Language-Specification.pdf
-8. https://developer.apple.com/metal/
-9. https://developer.apple.com/documentation/metal/
-10. https://developer.apple.com/metal/cpp/
-11. https://developer.apple.com/metal/sample-code/
-12. https://developer.apple.com/documentation/metalperformanceshaders/
-13. https://developer.apple.com/documentation/metal/blit_passes
-14. https://developer.apple.com/documentation/metal/indirect_command_encoding
-15. r
-16. s
-17. t
+4. https://developer.apple.com/documentation/metal/resource_fundamentals
+5. https://developer.apple.com/documentation/metal/memory_heaps
+6. https://developer.apple.com/documentation/metal/metal_sample_code_library
+7. https://developer.apple.com/documentation/metal/gpu_devices_and_work_submission
+8. https://developer.apple.com/metal/Metal-Shading-Language-Specification.pdf
+9. https://developer.apple.com/metal/
+10. https://developer.apple.com/documentation/metal/
+11. https://developer.apple.com/metal/cpp/
+12. https://developer.apple.com/metal/sample-code/
+13. https://developer.apple.com/documentation/metalperformanceshaders/
+14. https://developer.apple.com/documentation/metal/blit_passes
+15. https://developer.apple.com/documentation/metal/indirect_command_encoding
+16. r
+17. s
+18. t
 
 # History
 ![Apple A7 processor.](/images/AED20F3B-7CC0-4476-8203-D6B91878B6B0.jpeg)
