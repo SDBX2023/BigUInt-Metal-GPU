@@ -36,6 +36,7 @@ The Video RAM (GDDR5/6/6X/etc.) and/or *very high speed* Unified RAM available t
 4. https://developer.apple.com/metal/cpp/
 
 # History
+![Apple A7 processor.](/images/AED20F3B-7CC0-4476-8203-D6B91878B6B0.jpeg)
 "**Metal has been available since June 2, 2014** on iOS devices powered by **Apple A7 or later**, and **since June 8, 2015 on Macs** (2012 models or later) running **OS X El Capitan**." — Wikipedia
 
 # Resources
