@@ -89,7 +89,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 2. https://developer.apple.com/library/archive/documentation/Miscellaneous/Conceptual/MetalProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40014221
 3. https://developer.apple.com/documentation/metalperformanceshaders/tuning_hints
 4. https://developer.apple.com/documentation/metalperformanceshaders/convolutional_neural_network_kernels
-5. d
+5. https://developer.apple.com/documentation/metalperformanceshaders/recurrent_neural_networks
 6. e
 7. f
 8. g
