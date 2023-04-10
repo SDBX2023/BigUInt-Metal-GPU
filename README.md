@@ -1,4 +1,4 @@
-# Current Goals
+# BigUInt-Metal-GPU :: Current Goals
  - **Find other people willing to help out**, just a little bit.
  - *Ideally other people with an array of different hardware!*
 
