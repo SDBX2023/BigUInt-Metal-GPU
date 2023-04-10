@@ -135,3 +135,219 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 14. n
 15. o
 16. p
+
+# Miscellaneous Unsorted Resources from First Brainstorming Session
+
+https://gist.github.com/mhamilt/a5c2bbb02684e5db362712c9be7a02ca
+
+https://developer.apple.com/library/archive/documentation/Miscellaneous/Conceptual/MetalProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40014221
+
+https://developer.apple.com/metal/Metal-Feature-Set-Tables.pdf
+
+https://twitter.com/k_kondrak/status/1094192063292297217
+
+https://www.khronos.org/news/press/vulkan-applications-enabled-on-apple-platforms
+
+https://developer.apple.com/videos/play/wwdc2020/10631
+
+https://www.apple.com/au/newsroom/
+
+https://arstechnica.com/gadgets/2014/06/apple-gets-heavy-with-gaming-announces-metal-development-platform/
+
+https://web.archive.org/web/20171120014933/https://developer.apple.com/metal/
+
+https://developer.apple.com/documentation/metal/resource_fundamentals/synchronizing_a_managed_resource
+
+https://developer.apple.com/documentation/metal/resource_fundamentals/synchronizing_a_managed_resource
+
+https://developer.apple.com/documentation/metal/gpu_devices_and_work_submission/setting_up_a_command_structure
+
+https://web.archive.org/web/20171120014933/https://developer.apple.com/metal/
+
+https://en.wikipedia.org/wiki/WebGPU
+
+https://en.wikipedia.org/wiki/MoltenVK
+
+https://en.wikipedia.org/wiki/Vulkan
+
+https://en.wikipedia.org/wiki/DirectX#DirectX_12
+
+https://en.wikipedia.org/wiki/OS_X_El_Capitan
+
+https://developer.apple.com/videos/play/wwdc2022/10160
+
+https://developer.apple.com/videos/play/wwdc2022/10066
+
+‘Discover Metal 3’
+
+https://developer.apple.com/documentation/metal/gpu_devices_and_work_submission
+
+https://developer.apple.com/documentation/metalperformanceshaders
+
+https://en.wikipedia.org/wiki/LLVM
+
+https://en.wikipedia.org/wiki/Clang
+
+https://en.wikipedia.org/wiki/C%2B%2B14
+
+https://en.wikipedia.org/wiki/Shading_language
+
+https://en.wikipedia.org/wiki/Compute_kernel
+
+https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units
+
+https://developer.apple.com/documentation/metal/metal_sample_code_library/customizing_a_tensorflow_operation
+
+https://developer.apple.com/documentation/metal/hdr_content/processing_hdr_images_with_metal
+
+https://developer.apple.com/documentation/metal/memory_heaps/implementing_a_multistage_image_filter_using_heaps_and_events
+
+https://developer.apple.com/documentation/metal/memory_heaps/implementing_a_multistage_image_filter_using_heaps_and_fences
+
+https://developer.apple.com/documentation/metal/buffers/rendering_terrain_dynamically_with_argument_buffers
+
+https://developer.apple.com/documentation/metal/using_function_specialization_to_build_pipeline_variants
+
+https://developer.apple.com/documentation/metal/gpu_devices_and_work_submission/multi-gpu_systems/transferring_data_with_infinity_fabric_link
+
+https://developer.apple.com/documentation/metal/supporting_simulator_in_a_metal_app
+
+https://developer.apple.com/documentation/metal/debugging_tools/capturing_metal_commands_programmatically
+
+https://developer.apple.com/documentation/metal/metal_sample_code_library/mixing_metal_and_opengl_rendering_in_a_view
+
+https://developer.apple.com/documentation/metal/metal_sample_code_library/migrating_opengl_code_to_metal
+
+https://developer.apple.com/documentation/metal/metal_sample_code_library/selecting_device_objects_for_compute_processing (this)
+
+https://developer.apple.com/documentation/metal/metal_sample_code_library/selecting_device_objects_for_graphics_rendering
+
+https://developer.apple.com/documentation/metal/onscreen_presentation/creating_a_custom_metal_view
+
+
+
+https://developer.apple.com/documentation/metal/shader_libraries/customizing_shaders_using_function_pointers_and_stitching
+
+https://developer.apple.com/documentation/metal/shader_libraries/creating_a_metal_dynamic_library
+
+https://developer.apple.com/documentation/metalfx/applying_temporal_antialiasing_and_upscaling_using_metalfx
+
+https://developer.apple.com/documentation/metal/metal_sample_code_library/adjusting_the_level_of_detail_using_metal_mesh_shaders
+
+https://developer.apple.com/documentation/metal/indirect_command_encoding/encoding_indirect_command_buffers_on_the_gpu
+
+https://developer.apple.com/documentation/metal/buffers/encoding_argument_buffers_on_the_gpu
+
+https://developer.apple.com/documentation/metal/buffers/using_argument_buffers_with_resource_heaps
+
+https://developer.apple.com/documentation/metal/buffers/managing_groups_of_resources_with_argument_buffers
+
+https://developer.apple.com/documentation/metal/compute_passes/processing_a_texture_in_a_compute_function  (Special Level 2 Texture Cache)
+
+https://developer.apple.com/documentation/metal/compute_passes/processing_a_texture_in_a_compute_function
+
+https://developer.apple.com/documentation/metal/resource_synchronization/synchronizing_cpu_and_gpu_work
+
+https://developer.apple.com/documentation/metal/performing_calculations_on_a_gpu
+
+https://developer.apple.com/videos/play/tech-talks/110339/
+
+https://developer.apple.com/metal/tensorflow-plugin/
+
+https://developer.apple.com/metal/cpp/
+
+https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/MTLBestPracticesGuide/index.html#//apple_ref/doc/uid/TP40016642
+
+https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/MTLBestPracticesGuide/PersistentObjects.html#//apple_ref/doc/uid/TP40016642-CH4-SW1
+
+https://developer.apple.com/library/archive/documentation/Miscellaneous/Conceptual/MetalProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40014221
+
+https://developer.apple.com/documentation/metal/metal_enumerations (Only One!?)
+
+https://developer.apple.com/documentation/metal/memory_heaps
+
+https://developer.apple.com/documentation/metal/resource_synchronization
+
+
+https://developer.apple.com/documentation/metal/developing_and_debugging_metal_shaders (Important and Critical)
+
+https://developer.apple.com/documentation/metal/optimizing_performance_with_the_shader_profiler (Required Reading)
+
+
+https://developer.apple.com/documentation/metal/using_function_specialization_to_build_pipeline_variants
+
+
+https://developer.apple.com/documentation/metal/shader_libraries (Required Reading)
+
+https://developer.apple.com/documentation/metal/diagnosing_metal_programming_issues_early (Important and Critical)
+
+
+https://developer.apple.com/documentation/metal/tailor_your_apps_for_apple_gpus_and_tile-based_deferred_rendering (Think Long Term)
+
+https://developer.apple.com/documentation/apple-silicon/porting-your-metal-code-to-apple-silicon
+
+https://developer.apple.com/documentation/metal/gpu_counters_and_counter_sample_buffers
+
+
+https://developer.apple.com/documentation/metal/performance_tuning
+
+https://developer.apple.com/documentation/metal/debugging_tools (Required Reading)
+
+https://developer.apple.com/documentation/metal/supporting_simulator_in_a_metal_app
+
+https://developer.apple.com/documentation/metal/developing_metal_apps_that_run_in_simulator
+
+https://developer.apple.com/documentation/metal/diagnosing_metal_programming_issues_early
+
+https://developer.apple.com/documentation/metal/shader_libraries
+
+https://developer.apple.com/documentation/metal/optimizing_performance_with_the_shader_profiler
+
+https://developer.apple.com/forums/thread/698990 (Apple Forum Example)
+
+https://en.wikipedia.org/wiki/ChatGPT (A.I. Assisted Development is a Thing Now!)
+
+https://github.com/joshb/Metal-Swift
+
+https://pocketnow.com/apple-m2-vs-pro-vs-max/
+
+https://www.apple.com/au/macbook-pro-14-and-16/
+
+https://en.wikipedia.org/wiki/Apple_M1
+https://en.wikipedia.org/wiki/Apple_M2
+https://en.wikipedia.org/wiki/Apple_silicon
+
+ - https://en.wikipedia.org/wiki/RDNA_(microarchitecture)
+
+2 CUs
+
+One WGP encompasses 2 CUs. This allows significantly more compute power and memory bandwidth to be directed at a single workgroup. In RDNA, 1 CU is one half of a WGP.
+
+ - https://rosenzweig.io/blog/asahi-gpu-part-4.html
+
+ - https://www.techpowerup.com/gpu-specs/radeon-pro-5500m.c3463
+
+ - https://gpuopen.com/wp-content/uploads/2019/08/RDNA_Architecture_public.pdf
+
+ - https://en.wikipedia.org/wiki/RDNA_(microarchitecture)
+
+Maths:
+ - https://en.wikipedia.org/wiki/Horner%27s_method
+ - https://en.wikipedia.org/wiki/Kolmogorov_complexity
+
+
+
+
+
+Notebook Check:
+
+ - https://www.notebookcheck.net/AMD-Radeon-Pro-5500M-GPU-Benchmarks-and-Specs.442754.0.html
+
+
+
+Forbes:
+ - https://www.forbes.com/sites/ewanspence/2023/03/21/apple-macbook-air-m3-15-inch-wwdc-macbook-pro-specs-leak/?sh=23da64755aec
+
+
+ - https://stevenpcurtis.medium.com/coding-in-swift-playgrounds-1a5563efa089
+
