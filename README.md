@@ -1,8 +1,12 @@
 # Current Goals
  - Find other people willing to help out, just a little bit.
  - *Ideally other people with an array of different hardware!*
+ - Set-up a WikiMedia for the project. [In Progress]
+
+ - Have some 'Required Reading', 'Recommended Reading', and 'Suggested Reading' categorisation.
  - Rank each of the following resources (below) from 0 to 100 (inclusive, so 101 all up possible scores)
  - Rank each Resource (below) as Beginner, Intermediate, Advanced, Technical, Informational, 'Gaming Oriented', etc.
+ 
  - How Important is each resource to the project? [Matrix]
  - How Critical is each resource to the project? [Matrix]
 
